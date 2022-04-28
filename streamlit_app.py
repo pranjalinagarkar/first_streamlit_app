@@ -3,8 +3,8 @@ import streamlit
 streamlit.title('My Parent\'s New Healthy Diner')
 
 streamlit.header('🐸Breakfast Menu')
-streamlit.text('Boiled Egg')
+streamlit.text(':egg:Boiled Egg')
 streamlit.text('🍀Spinach')
-streamlit.text('Avacado')
+streamlit.text(':avacado:Avacado')
 
-streamlit.header('🍇:banana:Make your own smoothie')
+streamlit.header('🍇:banana:Make your own smoothie:mango::apple:')
