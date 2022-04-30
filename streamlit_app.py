@@ -21,7 +21,7 @@ streamlit.dataframe(fruits_to_show)
 #new section to bring new fruityvice response
 streamlit.header('FruityVice advise')
 
-fruit_choice = streamlit.text_input("What fruit would you like information about? ",'apple')
+fruit_choice = streamlit.text_input("What fruit would you like information about? ",'banana')
 streamlit.write("The user entered : ",fruit_choice)
 
 import requests
